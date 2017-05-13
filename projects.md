@@ -2,13 +2,23 @@
 
 
 [Django Documentation](https://docs.djangoproject.com/en/1.11/)
+
 [Bootstrap](https://v4-alpha.getbootstrap.com/)
+
 [django-excel](https://github.com/pyexcel/django-excel)
+
 [telepot - Python framework for Telegram Bot API](https://github.com/nickoala/telepot)
+
 [Как написать Telegram бота: практическое руководство](https://khashtamov.com/ru/create-telegram-bot-in-python/)
+
 [Знакомство с API ВКонтакте](https://vk.com/dev/first_guide?f=2.%20%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
+
 [VK Open API](https://vk.com/dev.php?method=openapi)
+
 [Методы VK API](https://vk.com/dev/methods)
+
+[Scrapy](https://doc.scrapy.org/en/latest/)
+
 [Glitch Photoes](https://github.com/trsqxyz/glitch)
 
 
